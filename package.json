@@ -1,0 +1,18 @@
+{
+  "name": "horsify",
+  "version": "0.0.0",
+  "description": "This is a demo of npm generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/horsify"
+  }
+}
